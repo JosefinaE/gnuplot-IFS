@@ -9,5 +9,9 @@ Uses an Iterated Function System to plot different fractal structures. Modify tr
 
 make plot iter=<n_of_iterations>
 
+Example plot with
+10000 iterations
+![](exampleplot.png)
+
 References:
 https://flam3.com/flame_draves.pdf
