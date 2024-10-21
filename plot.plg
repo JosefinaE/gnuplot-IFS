@@ -1,0 +1,2 @@
+splot input_data binary format='%float%float%float' with dots
+pause -1
